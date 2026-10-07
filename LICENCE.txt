@@ -1,0 +1,26 @@
+MAG TOOL (Launcher MAG TOOL et MAG RTM TOOL MW2 / MW3 / World at War)
+Copyright (c) 2026 UrBaaZz et Zerty. Tous droits réservés.
+
+FRANÇAIS
+Les programmes de ce dépôt (MAG_TOOL.zip) sont gratuits. Leur code source n'est pas publié.
+Il est interdit :
+  - de les republier ailleurs que sur ce dépôt GitHub officiel (https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL)
+    ou sur le serveur Discord officiel (https://discord.gg/m7e6S2agGU) ;
+  - de les modifier, de les décompiler pour en reprendre le code, ou de les vendre ;
+  - de retirer, de cacher ou de changer les crédits « UrBaaZz and Zerty ».
+
+Les programmes sont fournis tels quels, sans aucune garantie. Tu les utilises sous ta responsabilité.
+Projet de fans, non affilié à Activision. Call of Duty est une marque d'Activision.
+Le payload ps4debug et GoldHEN ne sont pas fournis ici et ne sont pas couverts par cette licence.
+
+ENGLISH
+The programs in this repository (MAG_TOOL.zip) are free. Their source code is not published.
+You may not:
+  - re-upload them anywhere other than this official GitHub repository (https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL)
+    or the official Discord server (https://discord.gg/m7e6S2agGU);
+  - modify them, decompile them to reuse their code, or sell them;
+  - remove, hide or change the "UrBaaZz and Zerty" credits.
+
+The programs are provided as is, without any warranty. You use them at your own risk.
+Fan project, not affiliated with Activision. Call of Duty is a trademark of Activision.
+The ps4debug payload and GoldHEN are not provided here and are not covered by this licence.

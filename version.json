@@ -1,0 +1,49 @@
+{
+  "_aide": "Lu par le launcher et les tools a chaque ouverture. Pour une mise a jour : monte le numero « version » du programme concerne et ecris ses nouveautes dans « fr » et « en ». « url » = page ouverte par le bouton Telecharger.",
+  "launcher": {
+    "version": "1.0",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": "Première version publique : tools RTM MW2, MW3 et World at War.",
+    "en": "First public release: RTM tools for MW2, MW3 and World at War."
+  },
+  "MW2": {
+    "version": "1.4",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Clan tags qui défilent aussi dans le pré-lobby.",
+      "Nouveau : clan tag du compte (page Compte).",
+      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
+    ],
+    "en": [
+      "Cycling clan tags in the pre-lobby too.",
+      "New: account clan tag (Account page).",
+      "New: controller button icons in your name + random buttons."
+    ]
+  },
+  "MW3": {
+    "version": "1.6",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Corrigé : afficher les FPS et la position.",
+      "Corrigé : listes des titres et emblèmes.",
+      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
+    ],
+    "en": [
+      "Fixed: show FPS and position.",
+      "Fixed: title and emblem lists.",
+      "New: controller button icons in your name + random buttons."
+    ]
+  },
+  "WAW": {
+    "version": "1.2",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Nouveau : noms des classes (page Classes).",
+      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
+    ],
+    "en": [
+      "New: class names (Classes page).",
+      "New: controller button icons in your name + random buttons."
+    ]
+  }
+}
