@@ -26,10 +26,10 @@
 | Program | for |
 | --- | --- |
 | **Launcher MAG TOOL** | Select a game |
-| **MAG RTM TOOL MW2** | Modern Warfare 2 (portage PS4) |
-| **MAG RTM TOOL MW3** | Modern Warfare 3 (portage PS4) |
-| **MAG RTM TOOL WAW** | World at War (portage PS4) |
-| Black Ops II, Black Ops | bientôt |
+| **MAG RTM TOOL MW2** | Modern Warfare 2 (port PS4) |
+| **MAG RTM TOOL MW3** | Modern Warfare 3 (port PS4) |
+| **MAG RTM TOOL WAW** | World at War (port PS4) |
+| Black Ops II, Black Ops | soon |
 
 On each tool :
 
