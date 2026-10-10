@@ -21,47 +21,44 @@
 
 ![Launcher MAG TOOL](images/launcher.png)
 
-## Contenu
+## files
 
-| Programme | Pour |
+| Program | for |
 | --- | --- |
-| **Launcher MAG TOOL** | choisir son jeu et lancer son tool |
+| **Launcher MAG TOOL** | Select a game |
 | **MAG RTM TOOL MW2** | Modern Warfare 2 (portage PS4) |
 | **MAG RTM TOOL MW3** | Modern Warfare 3 (portage PS4) |
 | **MAG RTM TOOL WAW** | World at War (portage PS4) |
 | Black Ops II, Black Ops | bientôt |
 
-Dans chaque tool :
+On each tool :
 
-- **In-Game Mods** (hôte) : god mode, UFO, noclip, munitions infinies, wallhack, aimbot, téléportations, tableau des scores, réglages de la partie, triches pour tous les joueurs.
-- **Test Ranked Match** toujours actif : en partie classée, les triches sont bloquées automatiquement.
-- **Compte, Prestige & Unlock, Classes** : stats, prestige, niveau, tout débloquer, noms et contenu des classes.
-- **Pseudo** : couleurs, arc-en-ciel animé, icônes des touches de la manette, clan tags qui défilent.
-- **Dvars, Mémoire** pour aller plus loin.
-- Launcher et tools en **français et en anglais** (drapeaux en haut à droite).
-- **Joueurs en ligne** affichés dans le launcher (signal anonyme, à couper dans les Paramètres).
+- **In-Game Mods** (hôte) : god mode, UFO, noclip, infinite ammo, wallhack, aimbot, teleportation, scoreboard, in game settings, all players cheat.
+- **Account, Prestige & Unlock, Classes** : stats, prestige, rank, unlock all, Name & Class editor.
+- **username** : color, Rainbow, Controller Icons, clan tags.
+- **Dvars, Memory** edit your dvar.
+- Launcher in **français & english**
+- **Player List** Show you all players in your game
 
-## Ce qu'il faut
+## What you need
 
-- Une PS4 avec **GoldHEN** et le payload **ps4debug** actif.
-- Le jeu lancé sur la PS4, au menu multijoueur.
-- Un PC **Windows 10 ou 11** (.NET Framework 4.8, déjà présent dans Windows), sur le même réseau que la PS4.
+- PS4 with **GoldHEN** and active **ps4debug**.
+- Game start on your console.
+- PC **Windows 10 or 11** (.NET Framework 4.8), on the same wifi
 
 ## Installation
 
-Tout est expliqué pas à pas, avec des images, dans le **[📖 Tutoriel](TUTORIEL.md)** (installer, connecter ta PS4, utiliser les tools, mises à jour, problèmes fréquents). En bref :
+Every steps here **[📖 Tutoriel](TUTORIEL.md)**
 
-1. Télécharge **[MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)** et extrais-le où tu veux (rien à installer).
-2. Lance **MAG TOOL Launcher.exe**.
-   Si Windows affiche « Windows a protégé votre ordinateur » (programme non signé) : clique **Informations complémentaires** puis **Exécuter quand même**.
-3. Choisis ton jeu > **LANCER**, puis dans le tool : tape l'IP de ta PS4 > **Connecter**.
+1. Download **[MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)** Extract it in a folder.
+2. Execute **MAG TOOL Launcher.exe**.
+3. Select your game and writ your PS4 IP and press connect
 
-## Mises à jour
+## Updates
 
-À chaque ouverture, le launcher et les tools regardent ici s'il y a une nouvelle version. Si oui, une fenêtre **Mise à jour disponible** s'ouvre et le bouton **Télécharger** t'amène sur cette page.
-Télécharge le nouveau **MAG_TOOL.zip** et extrais-le par-dessus ton dossier « MAG TOOL » : tes réglages (IP de la PS4, pseudo...) sont gardés.
+When you start the launcher you can get a notification say new update is available, press yes and download it!
 
-## Captures
+## Screenshots
 
 | MW2 | MW3 | World at War |
 | --- | --- | --- |
@@ -69,10 +66,10 @@ Télécharge le nouveau **MAG_TOOL.zip** et extrais-le par-dessus ton dossier «
 
 ## Contact
 
-- Serveur Discord : **https://discord.gg/m7e6S2agGU**
+- Server Discord : **https://discord.gg/m7e6S2agGU**
 - UrBaaZz : `urbaazz` • Zerty : `jlzerty`
 
-Projet de fans, non affilié à Activision. À utiliser en partie privée. Voir [LICENCE.txt](LICENCE.txt).
+Project for fans, not affiliated with Activision. Only for private match. here [LICENCE.txt](LICENCE.txt).
 
 ---
 
