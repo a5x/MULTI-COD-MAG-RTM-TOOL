@@ -84,4 +84,4 @@ Launcher and RTM tools for Call of Duty on PS4: **Modern Warfare 2**, **Modern W
 - **Updates**: the launcher and the tools check this page when they open. Download the new MAG_TOOL.zip and extract it over your « MAG TOOL » folder: your settings are kept.
 - Discord: **https://discord.gg/m7e6S2agGU**
 
-Fan project, not affiliated with Activision. For private matches. See [LICENCE.txt](LICENCE.txt).
+Fan project, not affiliated with Activision. For private matches. See [LICENCE.txt](LICENCE.txt). 
