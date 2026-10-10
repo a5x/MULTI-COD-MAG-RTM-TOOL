@@ -5,14 +5,14 @@
 <h1 align="center">MAG TOOL</h1>
 
 <p align="center">
-  Launcher et tools RTM pour Call of Duty sur PS4 : <b>Modern Warfare 2</b>, <b>Modern Warfare 3</b> et <b>World at War</b>.<br>
+  RTM Tools for Call of Duty PORT PS4 : <b>Modern Warfare 2</b>, <b>Modern Warfare 3</b> & <b>World at War</b>.<br>
   Dev by <b>UrBaaZz</b> and <b>Zerty</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip"><b>⬇️ Télécharger MAG TOOL</b></a>
+  <a href="https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip"><b>⬇️ Download MAG TOOL</b></a>
   &nbsp;•&nbsp;
-  <a href="TUTORIEL.md"><b>📖 Tutoriel</b></a>
+  <a href="TUTORIEL.md"><b>📖 Tuto</b></a>
   &nbsp;•&nbsp;
   <a href="https://discord.gg/m7e6S2agGU"><b>Discord</b></a>
   &nbsp;•&nbsp;
