@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip"><b>⬇️ Télécharger MAG TOOL</b></a>
   &nbsp;•&nbsp;
+  <a href="TUTORIEL.md"><b>📖 Tutoriel</b></a>
+  &nbsp;•&nbsp;
   <a href="https://discord.gg/m7e6S2agGU"><b>Discord</b></a>
   &nbsp;•&nbsp;
   <a href="#english">English</a>
@@ -37,6 +39,7 @@ Dans chaque tool :
 - **Pseudo** : couleurs, arc-en-ciel animé, icônes des touches de la manette, clan tags qui défilent.
 - **Dvars, Mémoire** pour aller plus loin.
 - Launcher et tools en **français et en anglais** (drapeaux en haut à droite).
+- **Joueurs en ligne** affichés dans le launcher (signal anonyme, à couper dans les Paramètres).
 
 ## Ce qu'il faut
 
@@ -45,6 +48,8 @@ Dans chaque tool :
 - Un PC **Windows 10 ou 11** (.NET Framework 4.8, déjà présent dans Windows), sur le même réseau que la PS4.
 
 ## Installation
+
+Tout est expliqué pas à pas, avec des images, dans le **[📖 Tutoriel](TUTORIEL.md)** (installer, connecter ta PS4, utiliser les tools, mises à jour, problèmes fréquents). En bref :
 
 1. Télécharge **[MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)** et extrais-le où tu veux (rien à installer).
 2. Lance **MAG TOOL Launcher.exe**.
@@ -75,6 +80,7 @@ Projet de fans, non affilié à Activision. À utiliser en partie privée. Voir 
 
 Launcher and RTM tools for Call of Duty on PS4: **Modern Warfare 2**, **Modern Warfare 3** and **World at War**. Dev by **UrBaaZz** and **Zerty**.
 
+- Step-by-step guide: **[📖 Tutorial](TUTORIEL.md#english)**.
 - **[Download MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)**, extract it anywhere and run **MAG TOOL Launcher.exe** (if Windows says « Windows protected your PC »: **More info** > **Run anyway**).
 - Needs a PS4 with **GoldHEN** + the **ps4debug** payload, the game at the multiplayer menu, and a **Windows 10/11** PC on the same network.
 - Each tool: In-Game Mods (host), Test Ranked Match (cheats blocked in ranked matches), account, prestige & unlock, classes, name, dvars, memory. Launcher and tools in French and English (flags at the top right).

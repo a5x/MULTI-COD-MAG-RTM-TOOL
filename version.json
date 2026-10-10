@@ -1,49 +1,77 @@
 {
-  "_aide": "Lu par le launcher et les tools a chaque ouverture. Pour une mise a jour : monte le numero « version » du programme concerne et ecris ses nouveautes dans « fr » et « en ». « url » = page ouverte par le bouton Telecharger.",
+  "_aide": "Lu par le launcher et les tools a chaque ouverture (puis toutes les 10 minutes). MISE A JOUR : monte le numero « version » du programme et ecris ses nouveautes dans « fr » / « en ». DESACTIVER : dans « desactivation », mets true sur un programme (ou « tout » = launcher + tous les tools) et ecris le message a afficher dans « fr » / « en » ; remets false pour reactiver. COMPTEUR : dans « stats », « url » = adresse du serveur Cloudflare (vide = pas de compteur).",
+  "desactivation": {
+    "tout": false,
+    "launcher": false,
+    "MW2": false,
+    "MW3": false,
+    "WAW": false,
+    "fr": "Ce tool est désactivé pour le moment. Plus d'infos sur le Discord.",
+    "en": "This tool is disabled for now. More info on the Discord."
+  },
+  "stats": {
+    "url": "https://silent-night-d585magtool.ericdu57600.workers.dev"
+  },
   "launcher": {
-    "version": "1.0",
-    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
-    "fr": "Première version publique : tools RTM MW2, MW3 et World at War.",
-    "en": "First public release: RTM tools for MW2, MW3 and World at War."
-  },
-  "MW2": {
-    "version": "1.4",
-    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
-    "fr": [
-      "Clan tags qui défilent aussi dans le pré-lobby.",
-      "Nouveau : clan tag du compte (page Compte).",
-      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
-    ],
-    "en": [
-      "Cycling clan tags in the pre-lobby too.",
-      "New: account clan tag (Account page).",
-      "New: controller button icons in your name + random buttons."
-    ]
-  },
-  "MW3": {
-    "version": "1.6",
-    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
-    "fr": [
-      "Corrigé : afficher les FPS et la position.",
-      "Corrigé : listes des titres et emblèmes.",
-      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
-    ],
-    "en": [
-      "Fixed: show FPS and position.",
-      "Fixed: title and emblem lists.",
-      "New: controller button icons in your name + random buttons."
-    ]
-  },
-  "WAW": {
     "version": "1.2",
     "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
     "fr": [
-      "Nouveau : noms des classes (page Classes).",
-      "Nouveau : icônes des touches de la manette dans le pseudo + touches au hasard."
+      "Nouveau : nombre de joueurs en ligne, en haut et sur chaque carte.",
+      "Le compteur se coupe dans les Paramètres (signal anonyme).",
+      "Nouveau : si les développeurs mettent un tool en pause (maintenance…), une fenêtre l'indique avec leur message.",
+      "Bandeau « DÉSACTIVÉ » sur la carte d'un tool en pause."
     ],
     "en": [
-      "New: class names (Classes page).",
-      "New: controller button icons in your name + random buttons."
+      "New: number of players online, at the top and on each card.",
+      "The counter can be turned off in the Settings (anonymous signal).",
+      "New: if the developers pause a tool (maintenance…), a window says so with their message.",
+      "« DISABLED » badge on a paused tool's card."
+    ]
+  },
+  "MW2": {
+    "version": "1.4.3",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Test Ranked Match renforcé : une partie vue classée reste bloquée jusqu'à sa fin.",
+      "Nouveau : si les développeurs mettent un tool en pause (maintenance…), une fenêtre l'indique avec leur message.",
+      "Nouveau : nombre de joueurs en ligne dans le launcher (signal anonyme, à couper dans les Paramètres du launcher)."
+    ],
+    "en": [
+      "Stronger Ranked Match Test: a match seen as ranked stays blocked until it ends.",
+      "New: if the developers pause a tool (maintenance…), a window says so with their message.",
+      "New: number of players online in the launcher (anonymous signal, can be turned off in the launcher Settings)."
+    ]
+  },
+  "MW3": {
+    "version": "1.6.3",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Corrigé : le Radar est bloqué en partie classée (Test Ranked Match).",
+      "Test Ranked Match renforcé : une partie vue classée reste bloquée jusqu'à sa fin.",
+      "Nouveau : si les développeurs mettent un tool en pause (maintenance…), une fenêtre l'indique avec leur message.",
+      "Nouveau : nombre de joueurs en ligne dans le launcher (signal anonyme, à couper dans les Paramètres du launcher)."
+    ],
+    "en": [
+      "Fixed: the Radar is blocked in ranked matches (Ranked Match Test).",
+      "Stronger Ranked Match Test: a match seen as ranked stays blocked until it ends.",
+      "New: if the developers pause a tool (maintenance…), a window says so with their message.",
+      "New: number of players online in the launcher (anonymous signal, can be turned off in the launcher Settings)."
+    ]
+  },
+  "WAW": {
+    "version": "1.2.3",
+    "url": "https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL",
+    "fr": [
+      "Corrigé : le Radar est bloqué en partie classée (Test Ranked Match).",
+      "Test Ranked Match renforcé : une partie vue classée reste bloquée jusqu'à sa fin.",
+      "Nouveau : si les développeurs mettent un tool en pause (maintenance…), une fenêtre l'indique avec leur message.",
+      "Nouveau : nombre de joueurs en ligne dans le launcher (signal anonyme, à couper dans les Paramètres du launcher)."
+    ],
+    "en": [
+      "Fixed: the Radar is blocked in ranked matches (Ranked Match Test).",
+      "Stronger Ranked Match Test: a match seen as ranked stays blocked until it ends.",
+      "New: if the developers pause a tool (maintenance…), a window says so with their message.",
+      "New: number of players online in the launcher (anonymous signal, can be turned off in the launcher Settings)."
     ]
   }
 }
