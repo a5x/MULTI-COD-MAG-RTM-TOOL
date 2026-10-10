@@ -1,7 +1,7 @@
 {
   "_aide": "Lu par le launcher et les tools a chaque ouverture (puis toutes les 10 minutes). MISE A JOUR : monte le numero « version » du programme et ecris ses nouveautes dans « fr » / « en ». DESACTIVER : dans « desactivation », mets true sur un programme (ou « tout » = launcher + tous les tools) et ecris le message a afficher dans « fr » / « en » ; remets false pour reactiver. COMPTEUR : dans « stats », « url » = adresse du serveur Cloudflare (vide = pas de compteur).",
   "desactivation": {
-    "tout": false,
+    "tout": true,
     "launcher": false,
     "MW2": false,
     "MW3": false,
