@@ -5,14 +5,14 @@
 <h1 align="center">MAG TOOL</h1>
 
 <p align="center">
-  RTM Tools for Call of Duty PORT PS4 : <b>Modern Warfare 2</b>, <b>Modern Warfare 3</b> & <b>World at War</b>.<br>
+  Launcher et tools RTM pour Call of Duty sur PS4 : <b>Modern Warfare 2</b>, <b>Modern Warfare 3</b>, <b>World at War</b> et <b>Call of Duty 4</b>.<br>
   Dev by <b>UrBaaZz</b> and <b>Zerty</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip"><b>⬇️ Download MAG TOOL</b></a>
+  <a href="https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip"><b>⬇️ Télécharger MAG TOOL</b></a>
   &nbsp;•&nbsp;
-  <a href="TUTORIEL.md"><b>📖 Tuto</b></a>
+  <a href="TUTORIEL.md"><b>📖 Tutoriel</b></a>
   &nbsp;•&nbsp;
   <a href="https://discord.gg/m7e6S2agGU"><b>Discord</b></a>
   &nbsp;•&nbsp;
@@ -21,61 +21,69 @@
 
 ![Launcher MAG TOOL](images/launcher.png)
 
-## files
+## Contenu
 
-| Program | for |
+| Programme | Pour |
 | --- | --- |
-| **Launcher MAG TOOL** | Select a game |
-| **MAG RTM TOOL MW2** | Modern Warfare 2 (port PS4) |
-| **MAG RTM TOOL MW3** | Modern Warfare 3 (port PS4) |
-| **MAG RTM TOOL WAW** | World at War (port PS4) |
-| Black Ops II, Black Ops | soon |
+| **Launcher MAG TOOL** | choisir son jeu et lancer son tool |
+| **MAG RTM TOOL MW2** | Modern Warfare 2 (portage PS4) |
+| **MAG RTM TOOL MW3** | Modern Warfare 3 (portage PS4) |
+| **MAG RTM TOOL WAW** | World at War (portage PS4) |
+| **MAG RTM TOOL COD4** | Call of Duty 4 : Modern Warfare (portage PS4) |
+| Black Ops II, Black Ops | bientôt |
 
-On each tool :
+Dans chaque tool :
 
-- **In-Game Mods** (hôte) : god mode, UFO, noclip, infinite ammo, wallhack, aimbot, teleportation, scoreboard, in game settings, all players cheat.
-- **Account, Prestige & Unlock, Classes** : stats, prestige, rank, unlock all, Name & Class editor.
-- **username** : color, Rainbow, Controller Icons, clan tags.
-- **Dvars, Memory** edit your dvar.
-- Launcher in **français & english**
-- **Player List** Show you all players in your game
+- **In-Game Mods** (hôte) : god mode, UFO, noclip, munitions infinies, wallhack, aimbot, téléportations, tableau des scores, réglages de la partie, triches pour tous les joueurs.
+- **Test Ranked Match** toujours actif : en partie classée, les triches sont bloquées automatiquement.
+- **Compte, Prestige & Unlock, Classes** : stats, prestige, niveau, tout débloquer, noms et contenu des classes.
+- **Pseudo** : couleurs, arc-en-ciel animé, icônes des touches de la manette, clan tags qui défilent.
+- **Dvars, Mémoire** pour aller plus loin.
+- Launcher et tools en **français et en anglais** (drapeaux en haut à droite).
+- **Joueurs en ligne** affichés dans le launcher (signal anonyme, à couper dans les Paramètres).
 
-## What you need
+## Ce qu'il faut
 
-- PS4 with **GoldHEN** and active **ps4debug**.
-- Game start on your console.
-- PC **Windows 10 or 11** (.NET Framework 4.8), on the same wifi
+- Une PS4 avec **GoldHEN** et le payload **ps4debug** actif.
+- Le jeu lancé sur la PS4, au menu multijoueur.
+- Un PC **Windows 10 ou 11** (.NET Framework 4.8, déjà présent dans Windows), sur le même réseau que la PS4.
 
 ## Installation
 
-Every steps here **[📖 Tutoriel](TUTORIEL.md)**
+Tout est expliqué pas à pas, avec des images, dans le **[📖 Tutoriel](TUTORIEL.md)** (installer, connecter ta PS4, utiliser les tools, mises à jour, problèmes fréquents). En bref :
 
-1. Download **[MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)** Extract it in a folder.
-2. Execute **MAG TOOL Launcher.exe**.
-3. Select your game and writ your PS4 IP and press connect
+1. Télécharge **[MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)** et extrais-le où tu veux (rien à installer).
+2. Lance **MAG TOOL Launcher.exe**.
+   Si Windows affiche « Windows a protégé votre ordinateur » (programme non signé) : clique **Informations complémentaires** puis **Exécuter quand même**.
+3. Choisis ton jeu > **LANCER**, puis dans le tool : tape l'IP de ta PS4 > **Connecter**.
 
-## Updates
+## Mises à jour
 
-When you start the launcher you can get a notification say new update is available, press yes and download it!
+À chaque ouverture, le launcher et les tools regardent ici s'il y a une nouvelle version. Si oui, une fenêtre **Mise à jour disponible** s'ouvre et le bouton **Télécharger** t'amène sur cette page.
+Télécharge le nouveau **MAG_TOOL.zip** et extrais-le par-dessus ton dossier « MAG TOOL » : tes réglages (IP de la PS4, pseudo...) sont gardés.
 
-## Screenshots
+## Captures
 
-| MW2 | MW3 | World at War |
-| --- | --- | --- |
-| ![MW2](images/mw2.png) | ![MW3](images/mw3.png) | ![World at War](images/waw.png) |
+| MW2 | MW3 |
+| --- | --- |
+| ![MW2](images/mw2.png) | ![MW3](images/mw3.png) |
+
+| World at War | Call of Duty 4 |
+| --- | --- |
+| ![World at War](images/waw.png) | ![Call of Duty 4](images/cod4.png) |
 
 ## Contact
 
-- Server Discord : **https://discord.gg/m7e6S2agGU**
+- Serveur Discord : **https://discord.gg/m7e6S2agGU**
 - UrBaaZz : `urbaazz` • Zerty : `jlzerty`
 
-Project for fans, not affiliated with Activision. Only for private match. here [LICENCE.txt](LICENCE.txt).
+Projet de fans, non affilié à Activision. À utiliser en partie privée. Voir [LICENCE.txt](LICENCE.txt).
 
 ---
 
 ## English
 
-Launcher and RTM tools for Call of Duty on PS4: **Modern Warfare 2**, **Modern Warfare 3** and **World at War**. Dev by **UrBaaZz** and **Zerty**.
+Launcher and RTM tools for Call of Duty on PS4: **Modern Warfare 2**, **Modern Warfare 3**, **World at War** and **Call of Duty 4**. Dev by **UrBaaZz** and **Zerty**.
 
 - Step-by-step guide: **[📖 Tutorial](TUTORIEL.md#english)**.
 - **[Download MAG_TOOL.zip](https://github.com/a5x/MULTI-COD-MAG-RTM-TOOL/raw/main/MAG_TOOL.zip)**, extract it anywhere and run **MAG TOOL Launcher.exe** (if Windows says « Windows protected your PC »: **More info** > **Run anyway**).
@@ -84,4 +92,4 @@ Launcher and RTM tools for Call of Duty on PS4: **Modern Warfare 2**, **Modern W
 - **Updates**: the launcher and the tools check this page when they open. Download the new MAG_TOOL.zip and extract it over your « MAG TOOL » folder: your settings are kept.
 - Discord: **https://discord.gg/m7e6S2agGU**
 
-Fan project, not affiliated with Activision. For private matches. See [LICENCE.txt](LICENCE.txt). 
+Fan project, not affiliated with Activision. For private matches. See [LICENCE.txt](LICENCE.txt).
