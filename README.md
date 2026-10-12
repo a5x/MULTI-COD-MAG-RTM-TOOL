@@ -1,4 +1,4 @@
-
+if you like this project, leave a star ⭐️ 
 <p align="center">
   <img src="images/logo.png" width="110" alt="MAG TOOL">
 </p>
